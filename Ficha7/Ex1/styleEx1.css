@@ -1,0 +1,8 @@
+.flex-container {
+    display: flex;
+    background-color: #000000;
+    flex-direction: row ;
+    padding: 80px;
+    justify-content: space-between;
+}
+
